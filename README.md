@@ -136,6 +136,6 @@ Ensure you have the following installed:
 
 ## 📞 **Contact**  
 **Abhinish Tiwari**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [GitHub Profile](https://github.com/yourusername)  
+📧 [your.email@example.com](abhinishtiwari02.com)  
+🔗 [GitHub Profile](https://github.com/abhinishtiwari)  
 
